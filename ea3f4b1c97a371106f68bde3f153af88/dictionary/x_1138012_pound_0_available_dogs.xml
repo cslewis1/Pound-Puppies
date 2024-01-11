@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4cfbfce0976b71106f68bde3f153afac" label="Available Dogs" max_length="40" name="x_1138012_pound_0_available_dogs" type="collection">
+        <element label="Adopted" max_length="255" name="adopted" type="boolean"/>
+        <element label="Adopted By" max_length="32" name="adopted_by" reference="x_1138012_pound_0_adoption_applicant" type="reference"/>
+        <element label="Adoption Date" mandatory="true" max_length="255" name="adoption_date" type="glide_date_time"/>
+        <element label="Age" mandatory="true" max_length="40" name="age" type="string"/>
+        <element label="Breed" max_length="40" name="bree0" type="string"/>
+        <element label="Dog Name" mandatory="true" max_length="40" name="dog_nam0" type="string"/>
+        <element label="Notes" max_length="200" name="notes" type="string"/>
+        <element label="Photo" max_length="255" name="phot0" type="user_image"/>
+        <element choice="1" label="Size" max_length="40" name="siz0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Teacup(&lt;5 lbs)" sequence="0" value="teacup_5_lbs"/>
+                <element inactive_on_update="false" label="Toy (5-15lbs)" sequence="1" value="toy_5_15lbs"/>
+                <element inactive_on_update="false" label="Small (15-25lbs)" sequence="2" value="small_15_25lbs"/>
+                <element inactive_on_update="false" label="Medium (25-40 lbs)" sequence="3" value="medium_25_40_lbs"/>
+                <element inactive_on_update="false" label="Large (40-60 lbs)" sequence="4" value="large_40_60_lbs"/>
+                <element inactive_on_update="false" label="X-Large (60 lbs)" sequence="5" value="x_large_60_lbs"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="adopted_by"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="size" table="x_1138012_pound_0_available_dogs" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>size</element>
+            <name>x_1138012_pound_0_available_dogs</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 03:08:48</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>size</sys_name>
+            <sys_package display_value="Pound Puppies" source="x_1138012_pound_0">ea3f4b1c97a371106f68bde3f153af88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pound Puppies">ea3f4b1c97a371106f68bde3f153af88</sys_scope>
+            <sys_update_name>sys_choice_x_1138012_pound_0_available_dogs_size</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 03:08:48</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Teacup (&lt;5 lbs)</label>
+            <language>en</language>
+            <name>x_1138012_pound_0_available_dogs</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 13:11:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 13:11:04</sys_updated_on>
+            <value>Teacup (&lt;5 lbs)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Toy (5-15 lbs)</label>
+            <language>en</language>
+            <name>x_1138012_pound_0_available_dogs</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 13:11:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 13:11:04</sys_updated_on>
+            <value>Toy (5-15 lbs)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Small(15-25 lbs)</label>
+            <language>en</language>
+            <name>x_1138012_pound_0_available_dogs</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 13:11:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 13:11:04</sys_updated_on>
+            <value>Small(15-25 lbs)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medium (25-40 lbs)</label>
+            <language>en</language>
+            <name>x_1138012_pound_0_available_dogs</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 13:11:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 13:11:04</sys_updated_on>
+            <value>Medium (25-40 lbs)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Large (40-60 lbs)</label>
+            <language>en</language>
+            <name>x_1138012_pound_0_available_dogs</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 13:11:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 13:11:04</sys_updated_on>
+            <value>Large (40-60 lbs)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X-Large (60  lbs)</label>
+            <language>en</language>
+            <name>x_1138012_pound_0_available_dogs</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 13:11:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 13:11:04</sys_updated_on>
+            <value>X-Large (60  lbs)</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

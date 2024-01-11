@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="note0" table="x_1138012_pound_0_available_dogs">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Notes</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>note0</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Journal">journal</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>4000</max_length>
+        <name>x_1138012_pound_0_available_dogs</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 00:32:27</sys_created_on>
+        <sys_id>2027a352976331106f68bde3f153af62</sys_id>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="Pound Puppies" source="x_1138012_pound_0">ea3f4b1c97a371106f68bde3f153af88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pound Puppies">ea3f4b1c97a371106f68bde3f153af88</sys_scope>
+        <sys_update_name>sys_dictionary_x_1138012_pound_0_available_dogs_note0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 00:38:21</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pound Puppies">ea3f4b1c97a371106f68bde3f153af88</application>
+        <file_path/>
+        <instance_id>74f655ccdb58b050a667cac505961964</instance_id>
+        <instance_name>dev117270</instance_name>
+        <name>sys_dictionary_x_1138012_pound_0_available_dogs_note0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="note0" table="x_1138012_pound_0_available_dogs"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Notes</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>note0</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Journal">journal</internal_type><mandatory>false</mandatory><max_length>4000</max_length><name>x_1138012_pound_0_available_dogs</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-08 00:32:27</sys_created_on><sys_id>2027a352976331106f68bde3f153af62</sys_id><sys_name>Notes</sys_name><sys_package display_value="Pound Puppies" source="x_1138012_pound_0">ea3f4b1c97a371106f68bde3f153af88</sys_package><sys_policy/><sys_scope display_value="Pound Puppies">ea3f4b1c97a371106f68bde3f153af88</sys_scope><sys_update_name>sys_dictionary_x_1138012_pound_0_available_dogs_note0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-08 00:38:21</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>176943867</payload_hash>
+        <record_name>Available Dogs.Notes</record_name>
+        <reverted_from/>
+        <source>e23f4b1c97a371106f68bde3f153af8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 00:38:21</sys_created_on>
+        <sys_id>43786f92976331106f68bde3f153affd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ce681962a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 00:38:21</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>4b786f923663311027d727558ae6e4fc</update_guid>
+        <update_guid_history>4b786f923663311027d727558ae6e4fc:176943867,87786f927c63311020486e845646b6f2:-1892288476,f827a3521163311059dceed320634bb9:176943867,3c27a352e2633110c63bc390ea6550a2:-1892288476,b027a352676331107de1d6dbfd2e048c:622867960</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 01:00:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>0302fc74c50f4357801bcc972ea3e671</sys_id>
+        <sys_metadata>2027a352976331106f68bde3f153af62</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="Pound Puppies" source="x_1138012_pound_0">ea3f4b1c97a371106f68bde3f153af88</sys_package>
+        <sys_parent display_value="Available Dogs">4cfbfce0976b71106f68bde3f153afac</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Pound Puppies">ea3f4b1c97a371106f68bde3f153af88</sys_scope>
+        <sys_scope_delete display_value="">9ede544f93cb462ea6f81d5f8a4e6049</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1138012_pound_0_available_dogs_note0</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1138012_pound_0_available_dogs_note0">43786f92976331106f68bde3f153affd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 01:00:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

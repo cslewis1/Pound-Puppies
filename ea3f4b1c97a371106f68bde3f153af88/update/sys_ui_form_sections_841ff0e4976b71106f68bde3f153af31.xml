@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="841ff0e4976b71106f68bde3f153af31" sys_domain="global" table="x_1138012_pound_0_available_dogs" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 01:48:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>901ff0e4976b71106f68bde3f153af34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1138012_pound_0_available_dogs" name="x_1138012_pound_0_available_dogs" sys_domain="global" view="Default view">841ff0e4976b71106f68bde3f153af31</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1138012_pound_0_available_dogs" sys_domain="global" view="Default view">ab2cf0e0976b71106f68bde3f153af8a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 01:48:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1138012_pound_0_available_dogs</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 01:48:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>841ff0e4976b71106f68bde3f153af31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1138012_pound_0_available_dogs</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Pound Puppies" source="x_1138012_pound_0">ea3f4b1c97a371106f68bde3f153af88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pound Puppies">ea3f4b1c97a371106f68bde3f153af88</sys_scope>
+            <sys_update_name>sys_ui_form_sections_841ff0e4976b71106f68bde3f153af31</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 01:48:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

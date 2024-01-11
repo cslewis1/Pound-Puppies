@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e4e3f0e8972b71106f68bde3f153af2e" extends="sys_user" label="Adoption Applicant" max_length="40" name="x_1138012_pound_0_adoption_applicant" type="collection">
+        <element label="Approved" max_length="255" name="approval" type="boolean"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Approval Date" max_length="255" name="approval_date" read_only="true" type="glide_date_time" use_dynamic_default="true"/>
+        <element active="false" default="False" function_definition="False" label="Approved" max_length="255" name="approved" type="boolean"/>
+        <element label="Requested Dog" mandatory="true" max_length="40" name="chosen_dog" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Approval" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="approved"/>
+                <element inactive_on_update="false" label="Denied" sequence="1" value="denied"/>
+            </choice>
+        </element>
+    </element>
+</database>

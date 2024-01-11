@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="New Dog Record">e2677570972fb1106f68bde3f153aff5</sc_cat_item>
+        <sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 02:21:04</sys_created_on>
+        <sys_id>fa009e38976fb1106f68bde3f153aff8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resources.New Dog Record</sys_name>
+        <sys_package display_value="Pound Puppies" source="x_1138012_pound_0">ea3f4b1c97a371106f68bde3f153af88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pound Puppies">ea3f4b1c97a371106f68bde3f153af88</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_fa009e38976fb1106f68bde3f153aff8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 02:21:04</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pound Puppies">ea3f4b1c97a371106f68bde3f153af88</application>
+        <file_path/>
+        <instance_id>74f655ccdb58b050a667cac505961964</instance_id>
+        <instance_name>dev117270</instance_name>
+        <name>sc_cat_item_catalog_fa009e38976fb1106f68bde3f153aff8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Dog Record">e2677570972fb1106f68bde3f153aff5</sc_cat_item><sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 02:21:04</sys_created_on><sys_id>fa009e38976fb1106f68bde3f153aff8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Resources.New Dog Record</sys_name><sys_package display_value="Pound Puppies" source="x_1138012_pound_0">ea3f4b1c97a371106f68bde3f153af88</sys_package><sys_policy/><sys_scope display_value="Pound Puppies">ea3f4b1c97a371106f68bde3f153af88</sys_scope><sys_update_name>sc_cat_item_catalog_fa009e38976fb1106f68bde3f153aff8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 02:21:04</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>320864240</payload_hash>
+        <record_name>Resources.New Dog Record</record_name>
+        <reverted_from/>
+        <source>e23f4b1c97a371106f68bde3f153af8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 02:21:04</sys_created_on>
+        <sys_id>3200de38976fb1106f68bde3f153af21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ccd1fd5030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 02:21:04</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>b200de38c56fb1106a50d50a95939820</update_guid>
+        <update_guid_history>b200de38c56fb1106a50d50a95939820:320864240</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Resources.New Dog Record">4e205278976fb1106f68bde3f153af70</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 02:21:33</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>344d53751e324f66a2b65baca645f244</sys_id>
+        <sys_metadata>fa009e38976fb1106f68bde3f153aff8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resources.New Dog Record</sys_name>
+        <sys_package display_value="Pound Puppies" source="x_1138012_pound_0">ea3f4b1c97a371106f68bde3f153af88</sys_package>
+        <sys_parent display_value="New Dog Record">e2677570972fb1106f68bde3f153aff5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Pound Puppies">ea3f4b1c97a371106f68bde3f153af88</sys_scope>
+        <sys_scope_delete display_value="">9ede544f93cb462ea6f81d5f8a4e6049</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_fa009e38976fb1106f68bde3f153aff8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_fa009e38976fb1106f68bde3f153aff8">3200de38976fb1106f68bde3f153af21</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 02:21:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
